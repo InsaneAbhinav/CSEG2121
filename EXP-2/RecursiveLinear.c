@@ -1,3 +1,4 @@
+// Recursive Linear Search
 #include <stdio.h>
 
 int func(int arr[], int n, int target, int index) {
